@@ -1,0 +1,11 @@
+//! Archivo para crear componentes para la funcionalidad en el HTML
+
+//! Archivo para crear la lista de las tareas creadas y su funcionamiento (nuevo, eliminar una tarea, marcar tara como completada, eliminar tareas completadas)
+
+//! Archivo para crear una Tarea y asignarle por defecto valores (id, completado, creado)
+
+//! Este for tiene que iterar del ultimo para el primero, porque si se van eliminando del primero al ultimo, puede haber errores, ya que los indices van a cambiar y puede que haya errores
+
+//! Lo mismo que lo de arriba
+
+//! Se creara un nuevo arreglo excluyendo lo de la condición, el id que coincida lo eliminara
